@@ -3,6 +3,6 @@ hra :)
 
 Co přidet / zlepšit
 
-Combat
-Puzzles
+Combat;
+Puzzles;
 
