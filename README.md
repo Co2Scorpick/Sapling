@@ -1,2 +1,8 @@
 # Sapling
-hra
+hra :)
+
+Co přidet / zlepšit
+
+Combat
+Puzzles
+
